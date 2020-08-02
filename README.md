@@ -1,2 +1,2 @@
 # Array-Sequences
-Array Sequences
+Array Sequences examples.
